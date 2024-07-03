@@ -35,11 +35,10 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        Hi there. I'm a research scholar working in the exciting field of neutrino physics and beyond standard model. I also work in the field of deep learning for high energy physics applications.
         
-        Please reach out to collaborate 😃
+        Reach out to me for any more info  😃
+    
     design:
       columns: '1'
   - block: collection
