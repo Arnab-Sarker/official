@@ -1,12 +1,15 @@
 ---
-title: "An example preprint / working paper"
+title: "The Sensitivity of DUNE in Presence of Off-Diagonal Scalar NSI Parameters"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+- Dharitree Bezboruah
+- Abinash Medhi
+- Moon Moon Devi
+date: "2024-06-21T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-06-21T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,7 +20,7 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Scalar non-standard interactions (NSI) presents an exciting pathway for probing potential new physics that extends beyond the Standard Model (BSM). The scalar coupling of neutrinos with matter can appear as a sub-dominant effect that can impact the neutrino oscillation probabilities. The uniqueness of these interactions is that it can directly affect the neutrino mass matrix. This makes oscillations sensitive to the absolute neutrino mass. The effects of scalar NSI scales linearly with matter density which motivates its exploration in long-baseline sector. The presence of scalar NSI can influence the key measurements in the field of neutrino physics, including the precise determination of the leptonic CP phase neutrino mass ordering and the octant of . The precise determination of is one of the major goals of DUNE, which is an upcoming long-baseline experiment. A better understanding of the impact of scalar NSI on CP measurement sensitivities is crucial for accurate interpretation of CP phase. In this work, we have explored the impact of the complex off-diagonal scalar NSI elements and their associated phases on the CP-measurement sensitivities at DUNE. We have explored the impact of the neutrino mass scale on these sensitivities. We look for constraining these off-diagonal elements for different neutrino mass scales. We also explore their correlation with, investigating potential degeneracies that can arise due to additional phases. We also perform a correlation study among different scalar NSI elements. We show that the inclusion of the complex scalar NSI elements can significantly modify the CP phase measurements.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -30,8 +33,8 @@ featured: true
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://arxiv.org/pdf/2406.15307
+url_code: ''
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
