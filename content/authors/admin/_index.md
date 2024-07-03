@@ -101,7 +101,9 @@ work:
     date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data cente
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -116,9 +118,9 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: C
+      - name: SQL
         description: ''
-        percent: 60
+        percent: 40
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -140,10 +142,10 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Hindi
+  - name: Chinese
     percent: 75
-  - name: Assamese
-    percent: 100
+  - name: Portuguese
+    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
