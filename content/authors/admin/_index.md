@@ -53,7 +53,7 @@ interests:
 
 education:
   - area: PhD Neutrino Phenomenology (Current)
-    institution: Tezpur University, Assam, India
+    institution: Tezpur University 
     date_start: 2020-09-01
     date_end: 2024-12-30
     summary: |
@@ -62,7 +62,7 @@ education:
       text: 'Read Thesis'
       url: 'https://example.com'
   - area: MSc Physics
-    institution: University of Hyderabad, Telangana, India
+    institution: University of Hyderabad 
     date_start: 2018-08-01
     date_end: 2020-06-30
     summary: |
@@ -71,7 +71,7 @@ education:
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Physics
-    institution: B.Borooah College, Assam, India
+    institution: B.Borooah College 
     date_start: 2014-08-01
     date_end: 2017-06-31
     summary: |
