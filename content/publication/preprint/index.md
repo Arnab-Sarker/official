@@ -26,7 +26,7 @@ abstract: Scalar non-standard interactions (NSI) presents an exciting pathway fo
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Large Language Models
+- Non standard Interactions, BSM
 
 featured: true
 
@@ -35,12 +35,12 @@ links:
   url: http://example.org
 url_pdf: https://arxiv.org/pdf/2406.15307
 url_code: ''
-url_dataset: '#'
-url_poster: '#'
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
