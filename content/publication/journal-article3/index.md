@@ -1,5 +1,5 @@
 ---
-title: "Scalar NSI: A unique tool for constraining absolute neutrino masses via ν-oscillations"
+title: "Scalar NSI, A unique tool for constraining absolute neutrino masses via ν-oscillations"
 "
 authors:
 - Abinash Medhi
