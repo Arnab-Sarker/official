@@ -1,19 +1,17 @@
 ---
-title: "Impact of scalar NSI on the neutrino mass ordering sensitivity at DUNE, HK and KNO"
+title: "Investigating the effects of Lorentz Invariance Violation on the CP-sensitivities of the Deep Underground Neutrino Experiment"
 authors:
 - admin
 - Abinash Medhi
-- Dharitree Bezboruah
 - Moon Moon Devi
-- Debajyoti Dutta
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2024-06-19T00:00:00Z"
-doi: "https://doi.org/10.1007/JHEP06(2024)128"
+date: "2023-06-11T00:00:00Z"
+doi: "https://doi.org/10.1140/epjc/s10052-023-11785-4"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-06-19T00:00:00Z"
+publishDate: "2023-06-11T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -21,14 +19,14 @@ publishDate: "2024-06-19T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of High Energy Physics, 06 (2024) 128"
-publication_short: "JHEP 06 (2024) 128"
+publication: "*Eur.Phys.J.C 83 (2023) 7, 592"
+publication_short: "Eur.Phys.J.C 83 (2023) 7, 592"
 
-abstract: The study of neutrino non-standard interactions (NSI) is a well-motivated phenomenological scenario to explore new physics beyond the Standard Model. The possible scalar coupling of neutrinos (ν) with matter is one of such new physics scenarios that appears as a sub-dominant effect that can impact the ν-oscillations in matter. The presence of scalar NSI introduces an additional contribution directly to the ν-mass matrix in the interaction Hamiltonian and subsequently to the ν-oscillations. This indicates that scalar NSI may have a significant impact on measurements related to ν-oscillations e.g. leptonic CP phase octant and neutrino mass ordering (MO). The linear scaling of the effects of scalar NSI with matter density also motivates its exploration in long-baseline (LBL) experiments. In this paper, we study the impact of a scalar-mediated NSI on the MO sensitivity of DUNE, HK and HK+KNO, which are upcoming LBL experiments. We study the impact on MO sensitivities at these experiments assuming that scalar NSI parameters are present in nature and is known from other non-LBL experiments. We observe that the presence of diagonal scalar NSI elements can significantly affect the ν-mass ordering sensitivities. We then also combine the data from DUNE with HK and HK+KNO to explore possible synergy among these experiments in a wider parameter space. We also observe a significant enhancement in the MO sensitivities for the combined analysis.
+abstract: The phenomena of neutrino oscillations offer a great potential for probing new-physics beyond the Standard Model. Any additional effects on neutrino oscillations can help understand the nature of the non-standard effects. The violation of fundamental symmetries may appear as a probe for new-physics in various neutrino experiments. Lorentz symmetry is one such fundamental symmetry in nature and the breakdown of spacetime is a possible motivation for a departure from the standard Lorentz symmetry picture. The Lorentz invariance violation (LIV) is intrinsic in nature and its effects exist even in a vacuum. Neutrinos can be an intriguing probe for exploring such violations of Lorentz symmetry. The effect of violation of Lorentz invariance can be explored through its impact on the neutrino oscillation probabilities. The effect of LIV is treated as a perturbation to the standard neutrino Hamiltonian considering the Standard Model Extension (SME) framework. In this work, we have probed the effects of LIV on the measurement of neutrino oscillation parameters considering Deep Underground Neutrino Experiment (DUNE) as a case study. The inclusion of LIV affects the measurements of various neutrino oscillation parameters as it modifies the standard neutrino oscillation probabilities. We looked into the capability of DUNE in constraining the LIV parameters and then explored the impact of CPT-violating LIV terms on the mass-induced neutrino oscillation probabilities. We have also probed the impact of LIV parameters on the CP-measurement sensitivities at DUNE.
 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We looked into the capability of DUNE in constraining the LIV parameters and then explored the impact of CPT-violating LIV terms on the mass-induced neutrino oscillation probabilities. We have also probed the impact of LIV parameters on the CP-measurement sensitivities at DUNE.
 
 tags:
 - Source Themes
@@ -37,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://inspirehep.net/files/7d9560fc92300b64d0c4ee2ab1b7552c
+url_pdf: https://inspirehep.net/files/28a5cc6b77c0b5b422283a8cb2ca112a
 url_code: ''
 url_dataset: ''
 url_poster: ''
