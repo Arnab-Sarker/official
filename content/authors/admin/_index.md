@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Arnab Sarker, a Research Scholar working in the Department of Physics at Tezpur University, India. I am currently working in the field of neutrino phenomenology. I also work in the application of machine learning algorithms in high energy physics.
