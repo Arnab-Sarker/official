@@ -9,11 +9,11 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2024-07-19"
+date: "2024-07-19T00:00:00Z"
 doi: "https://doi.org/10.1007/JHEP06(2024)128"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-07-19"
+publishDate: "2024-07-19T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
