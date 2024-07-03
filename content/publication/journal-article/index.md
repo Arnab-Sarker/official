@@ -13,7 +13,7 @@ date: "2024-07-19T00:00:00Z"
 doi: "https://doi.org/10.1007/JHEP06(2024)128"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-07-19T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -21,10 +21,10 @@ publishDate: "2024-07-19T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "JHEP 06 (2024) 128"
-publication_short: "JHEP 06 (2024) 128"
+publication: "*Journal of Source Themes, 1*(1)"
+publication_short: ""
 
-abstract: The study of neutrino non-standard interactions (NSI) is a well-motivated phenomenological scenario to explore new physics beyond the Standard Model. The possible scalar coupling of neutrinos (ν) with matter is one of such new physics scenarios that appears as a sub-dominant effect that can impact the ν-oscillations in matter. The presence of scalar NSI introduces an additional contribution directly to the ν-mass matrix in the interaction Hamiltonian and subsequently to the ν-oscillations. This indicates that scalar NSI may have a significant impact on measurements related to ν-oscillations e.g. leptonic CP phase octant and neutrino mass ordering (MO). The linear scaling of the effects of scalar NSI with matter density also motivates its exploration in long-baseline (LBL) experiments. In this paper, we study the impact of a scalar-mediated NSI on the MO sensitivity of DUNE, HK and HK+KNO, which are upcoming LBL experiments. We study the impact on MO sensitivities at these experiments assuming that scalar NSI parameters are present in nature and is known from other non-LBL experiments. We observe that the presence of diagonal scalar NSI elements can significantly affect the ν-mass ordering sensitivities. We then also combine the data from DUNE with HK and HK+KNO to explore possible synergy among these experiments in a wider parameter space. We also observe a significant enhancement in the MO sensitivities for the combined analysis.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -36,8 +36,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://link.springer.com/article/10.1007/JHEP06(2024)128
-url_code: ''
+url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
 url_project: ''
