@@ -53,7 +53,7 @@ interests:
 
 education:
   - area: PhD Neutrino Phenomenology (Current)
-    institution: Tezpur University
+    institution: Tezpur University, Assam, India
     date_start: 2020-09-01
     date_end: 2024-12-30
     summary: |
@@ -62,7 +62,7 @@ education:
       text: 'Read Thesis'
       url: 'https://example.com'
   - area: MSc Physics
-    institution: University of Hyderabad
+    institution: University of Hyderabad, Telangana, India
     date_start: 2018-08-01
     date_end: 2020-06-30
     summary: |
@@ -70,10 +70,10 @@ education:
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Physics
+    institution: B.Borooah College, Assam, India
+    date_start: 2014-08-01
+    date_end: 2017-06-31
     summary: |
       GPA: 3.4/4.0
       
@@ -101,9 +101,7 @@ work:
     date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Migrated infrastructure to a new data cente
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -118,9 +116,9 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: C++
         description: ''
-        percent: 40
+        percent: 60
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
