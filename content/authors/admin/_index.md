@@ -71,7 +71,7 @@ education:
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Physics
-    institution: B.Borooah College 
+    institution: B Borooah College 
     date_start: 2014-08-01
     date_end: 2017-06-31
     summary: |
@@ -116,7 +116,7 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: C++
+      - name: C
         description: ''
         percent: 60
         icon: circle-stack
