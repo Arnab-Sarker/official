@@ -66,11 +66,8 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: example
----
 
 
-
----
 title: "2 Impact of scalar NSI on the neutrino mass ordering sensitivity at DUNE, HK and KNO"
 authors:
 - admin
