@@ -116,13 +116,13 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: CPP
         description: ''
-        percent: 100
+        percent: 70
         icon: chart-bar
-      - name: SQL
+      - name: PyTorch
         description: ''
-        percent: 40
+        percent: 75
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
