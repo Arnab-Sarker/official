@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Physics Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: Tezpur University
     url: https://openai.com/
 
 # Social network links
@@ -47,13 +47,13 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Neutrino Physics
+  - Beyond Standard Model
+  - Machine Learning
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD Neutrino Phenomenology
+    institution: Tezpur University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -144,10 +144,10 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
+  - name: Hindi
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Assamese
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
