@@ -57,32 +57,24 @@ education:
     date_start: 2020-09-01
     date_end: 2024-12-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Study of non-standard effects via neutrino oscillation experiments and application of machine learning for particle reconstruction.
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      text: 'Read articles'
+      url: 'https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=f%20a%20arnab%20sarker&author=1926086_Arnab%20Sarker&ui-citation-summary=true'
   - area: MSc Physics
     institution: University of Hyderabad
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Percentage: 82.5/100
+    
   - area: BSc Physics
     institution: B Borooah College
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
       GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
