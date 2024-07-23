@@ -25,7 +25,7 @@ role: Physics Researcher
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Tezpur University
-    url: https://openai.com/
+    url: https://www.tezu.ernet.in/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -34,11 +34,11 @@ profiles:
     url: 'mailto:arnabsarker00@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Arnab-Sarker
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/sarkerarnab/
   - icon: academicons/google-scholar
