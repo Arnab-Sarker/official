@@ -99,6 +99,30 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
+
+# Awards.
+#   Add/remove as many awards below as you like.
+#   Only `title`, `awarder`, and `date` are required.
+#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+awards:
+  - title: CSIR JRF Fellowship
+    url: https://www.coursera.org/learn/neural-networks-deep-learning
+    date: '2021-05-01'
+    awarder: CSIR
+    icon: 
+    summary: |
+      AIR Rank 67, Fellowship to continue PhD research
+  
+  - title: 'International Travel Support (ITS) Grant'
+    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+    certificate_url: https://www.datacamp.com
+    date: '2024-04-21'
+    awarder: SERB
+    icon:
+    summary: |
+      Travel Grant to attend international conferences/workshops to present my PhD work.
+---
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -141,28 +165,6 @@ languages:
   - name: Assamese
     percent: 100
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: CSIR JRF Fellowship
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2021-05-01'
-    awarder: CSIR
-    icon: 
-    summary: |
-      AIR Rank 67, Fellowship to continue PhD research
-  
-  - title: 'International Travel Support (ITS) Grant'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2024-04-21'
-    awarder: SERB
-    icon:
-    summary: |
-      Travel Grant to attend international conferences/workshops to present my PhD work.
----
 
 ## About Me
 
