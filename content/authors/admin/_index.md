@@ -121,7 +121,7 @@ awards:
     icon:
     summary: |
       Travel Grant to attend international conferences/workshops to present my PhD work.
----
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -165,6 +165,7 @@ languages:
   - name: Assamese
     percent: 100
 
+---
 
 ## About Me
 
