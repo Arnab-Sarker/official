@@ -35,23 +35,23 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Hi there. I'm a research scholar working in the exciting field of neutrino physics and beyond standard model. I also work in the field of deep learning for high energy physics applications.
+        Hi there. I'm a PhD research scholar working in the exciting field of Neutrino Physics and Beyond Standard Model. I also work in the field of Deep Learning for High Energy Physics applications.
         
         Reach out to me for any more info  😃
     
     design:
       columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
+#  - block: collection
+#    id: papers
+#    content:
+#      title: Featured Publications
+#      filters:
+#        folders:
+#          - publication
+#        featured_only: true
+#    design:
+#      view: article-grid
+#      columns: 2
   - block: collection
     content:
       title: Recent Publications
