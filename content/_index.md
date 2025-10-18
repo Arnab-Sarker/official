@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: "Arnab's webpage"
-date: 2022-10-24
+date: 2025-10-18
 type: landing
 
 design:
@@ -35,9 +35,10 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
+        <div align="center">
         Hello! I'm a researcher working in the field of neutrino physics and beyond the Standard Model physics. My research primarily focuses on understanding the fundamental properties of neutrinos and          probing possible new physics effects through phenomenological studies. I am also actively involved in the application of machine learning techniques to high-energy physics, with the goal of               enhancing event reconstruction, parameter estimation, and sensitivity studies in neutrino experiments.
         I am always open to discussions and collaborations in related areas of high energy physics.
-    
+        <div>
     design:
       columns: '1'
   - block: collection
