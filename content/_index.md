@@ -36,11 +36,13 @@ sections:
       subtitle: ''
       text: |-
         <div align="justify">
-        Hello! I'm a researcher working in the field of neutrino physics and beyond the Standard Model physics. My research primarily focuses on understanding the fundamental properties of neutrinos and          probing possible new physics effects through phenomenological studies. I am also actively involved in the application of machine learning techniques to high-energy physics, with the goal of               enhancing event reconstruction, parameter estimation, and sensitivity studies in neutrino experiments.
-        I am always open to discussions and collaborations in related areas of high energy physics.
+        Hello! I'm a researcher working in the exciting field of neutrino physics and beyond the Standard Model physics. My research primarily focuses on understanding the fundamental properties of               neutrinos and probing possible new physics effects through phenomenological studies. I am also actively involved in exploring machine learning techniques in High Energy Physics.
+
+        I'm open to discussions and collaborations in related areas of physics.
         <div>
     design:
       columns: '1'
+    
   - block: collection
     id: papers
     content:
@@ -52,6 +54,7 @@ sections:
     design:
       view: article-grid
       columns: 3
+    
   - block: collection
     content:
       title: Recent Publications
