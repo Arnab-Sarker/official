@@ -40,8 +40,11 @@ sections:
 
         I'm open to discussions and collaborations in related areas of physics.
         <p style="text-align:center;">
-        ✉️ <strong>Email:</strong> 
-        <a href="mailto:arnabsarker00@gmail.com" style="color:green; text-decoration:none;">arnabsarker00@gmail.com</a>
+          ✉️ <strong>Email:</strong> 
+          <a href="mailto:arnabsarker00@gmail.com" style="color:#000000; text-decoration:none; transition: color 0.3s;"
+             onmouseover="this.style.color='#28a745'" onmouseout="this.style.color='#000000'">
+             arnabsarker00@gmail.com
+          </a>
         </p>
         <div>
     design:
