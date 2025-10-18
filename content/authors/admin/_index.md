@@ -77,17 +77,14 @@ education:
     
 work:
   - position: Research Associate
-    company_name: IACS
+    company_name: Indian Association for the Cultivation of Science, Kolkata
     company_url: ''
     company_logo: ''
     date_start: 2025-11-01
     date_end: ''
-    summary: |
-      Responsibilities include:
-      - To be added.
         
   - position: Guest Faculty
-    company_name: Cotton University
+    company_name: Cotton University, Assam
     company_url: ''
     company_logo: ''
     date_start: 2025-09-01
