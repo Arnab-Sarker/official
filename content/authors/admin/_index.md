@@ -52,39 +52,40 @@ interests:
   - Machine Learning
 
 education:
-  - area: PhD Neutrino Phenomenology (Current)
-    institution: Tezpur University 
+  - area: PhD Neutrino Phenomenology
+    institution: Tezpur University, Assam, India
     date_start: 2020-09-01
-    date_end: 2024-12-30
+    date_end: ''
     summary: |
       Study of non-standard effects via neutrino oscillation experiments and application of machine learning for particle reconstruction.
     button:
       text: 'Read articles'
       url: 'https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=f%20a%20arnab%20sarker&author=1926086_Arnab%20Sarker&ui-citation-summary=true'
-  - area: MSc Physics
-    institution: University of Hyderabad
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    
+  - area: M.Sc. Physics
+    institution: University of Hyderabad, Telangana, India
+    date_start: 2018-08-01
+    date_end: 2020-07-01
     summary: |
       Percentage: 82.5/100
     
-  - area: BSc Physics
-    institution: B Borooah College
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.Sc. Physics
+    institution: B. Borooah College, Assam, India
+    date_start: 2014-08-01
+    date_end: 2017-07-31
     summary: |
-      GPA: 3.4/4.0
+      Percentage: 91/100
     
 work:
   - position: Research Associate
-    company_name: Indian Association for the Cultivation of Science, Kolkata
+    company_name: Indian Association for the Cultivation of Science, Kolkata, India
     company_url: ''
     company_logo: ''
     date_start: 2025-11-01
     date_end: ''
         
   - position: Guest Faculty
-    company_name: Cotton University, Assam
+    company_name: Cotton University, Assam, India
     company_url: ''
     company_logo: ''
     date_start: 2025-09-01
@@ -100,21 +101,21 @@ work:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: CSIR JRF Fellowship
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
+    url: https://csirhrdg.res.in/Home/Index/1/Default/3384/60
     date: '2021-05-01'
-    awarder: CSIR
+    awarder: CSIR-HRDG
     icon: 
     summary: |
-      AIR Rank 67, Fellowship to continue PhD research
+      AIR Rank 67, Fellowship to pursue PhD
   
   - title: 'International Travel Support (ITS) Grant'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+    url: https://anrfonline.in/ANRF/its
     certificate_url: https://www.datacamp.com
     date: '2024-04-21'
-    awarder: SERB
+    awarder: ANRF
     icon:
     summary: |
-      Travel Grant to attend international conferences/workshops to present my PhD work.
+      Travel Grant to attend the NEUTRINO 2024 International conference to present my research work.
 
 
 # Skills
