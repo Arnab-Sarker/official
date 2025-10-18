@@ -39,7 +39,10 @@ sections:
         Hello! I'm a researcher working in the exciting field of neutrino physics and beyond the Standard Model physics. My research primarily focuses on understanding the fundamental properties of               neutrinos and probing possible new physics effects through phenomenological studies. I am also actively involved in exploring machine learning techniques in High Energy Physics.
 
         I'm open to discussions and collaborations in related areas of physics.
-        ✉️ **Email:** [arnab.sarker@email.com](mailto:arnab.sarker@email.com)
+        <p style="text-align:center;">
+          ✉️ <strong>Email:</strong> 
+          <a href="mailto:arnab.sarker@email.com">arnab.sarker@email.com</a>
+        </p>
         <div>
     design:
       columns: '1'
