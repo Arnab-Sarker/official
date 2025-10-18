@@ -169,4 +169,4 @@ languages:
 
 ## About Me
 
-I am Arnab Sarker, a Research Scholar working in the Department of Physics at Tezpur University, India. I am currently working in the field of neutrino phenomenology. I also work in the application of machine learning algorithms in high energy physics.
+I'm Arnab Sarker, a researcher working in the field of High Energy physics, particularly focusing on neutrinos. I also work in the application of machine learning algorithms in High Energy physics.
