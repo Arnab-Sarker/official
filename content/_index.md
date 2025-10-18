@@ -35,9 +35,8 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Hi there. I'm a PhD research scholar working in the exciting field of Neutrino Physics and Beyond Standard Model. I also work in the field of Deep Learning for High Energy Physics applications.
-        
-        Reach out to me for any more info  😃
+        Hello. I am a researcher working in the field of neutrino physics and beyond the Standard Model physics. My research primarily focuses on understanding the fundamental properties of neutrinos and probing possible new physics effects through phenomenological studies. I am also actively involved in the application of machine learning techniques to high-energy physics, with the goal of enhancing event reconstruction, parameter estimation, and sensitivity studies in neutrino experiments.
+    I am always open to discussions and collaborations in related areas of high energy physics.
     
     design:
       columns: '1'
