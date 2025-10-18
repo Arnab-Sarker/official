@@ -41,7 +41,7 @@ sections:
         I'm open to discussions and collaborations in related areas of physics.
         <p style="text-align:center;">
           ✉️ <strong>Email:</strong> 
-          <a href="mailto:arnab.sarker@email.com">arnab.sarker@email.com</a>
+          <a href="mailto:arnabsarker00@gmail.com">arnabsarker00@gmail.com</a>
         </p>
         <div>
     design:
