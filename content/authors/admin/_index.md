@@ -46,7 +46,7 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-5211-0338
 
-interests:
+research interests:
   - Neutrino Physics
   - Beyond Standard Model
   - Machine Learning
