@@ -169,4 +169,4 @@ languages:
 
 ## About Me
 
-I'm Arnab Sarker, a researcher working in the field of High Energy physics, particularly focusing on neutrinos. I also work in the application of machine learning algorithms in High Energy physics.
+I'm Arnab Sarker, a researcher working in the field of high-energy physics, particularly focusing on neutrinos. I also work in the application of machine learning algorithms in particle physics. Outside the lab, you’ll probably find me lost in a good book, immersed in anime, or occasionally painting. In short, I chase anything that helps keep the chaos of research beautifully balanced.
