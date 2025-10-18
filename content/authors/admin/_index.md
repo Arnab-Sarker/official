@@ -76,28 +76,25 @@ education:
       GPA: 3.4/4.0
     
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Research Associate
+    company_name: IACS
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2025-11-01
+    date_end: Present
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - To be added.
+        
+  - position: Guest Faculty
+    company_name: Cotton University
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-09-01
+    date_end: 2025-10-31
+    summary: |2-
+      Responsibilities include:
+      - Teaching Undergraduate and Postgraduate Courses.
 
 
 # Awards.
