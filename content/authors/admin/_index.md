@@ -62,7 +62,6 @@ education:
       text: 'iNSPIRE-HEP'
       url: 'https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=f%20a%20arnab%20sarker&author=1926086_Arnab%20Sarker&ui-citation-summary=true'
 
-    &nbsp; | &nbsp;
     <a href="https://inspirehep.net/authors/1926086" target="_blank" title="INSPIRE-HEP Profile" style="text-decoration:none;">
       <img src="https://inspirehep.net/favicon.ico" alt="InspireHEP" style="width:20px; height:20px; vertical-align:middle;">
     </a>
