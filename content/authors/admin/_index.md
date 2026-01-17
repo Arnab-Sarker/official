@@ -72,14 +72,14 @@ education:
     date_start: 2018-08-01
     date_end: 2020-07-01
     summary: |
-      Percentage: 82.5/100
+      Percentage:
     
   - area: B.Sc. Physics
     institution: B. Borooah College, Assam, India
     date_start: 2014-08-01
     date_end: 2017-07-31
     summary: |
-      Percentage: 91/100
+      Percentage: 
     
 work:
   - position: Research Associate
@@ -140,22 +140,6 @@ skills:
         description: ''
         percent: 75
         icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
 
 languages:
   - name: English
