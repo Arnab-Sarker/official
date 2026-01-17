@@ -74,7 +74,7 @@ education:
     date_start: 2014-08-01
     date_end: 2017-07-31
     
-work:
+work experience:
   - position: Research Associate
     company_name: Indian Association for the Cultivation of Science, Kolkata, India
     company_url: ''
@@ -95,22 +95,21 @@ work:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: CSIR JRF Fellowship
+  - title: CSIR JRF/SRF Fellowship
     url: https://csirhrdg.res.in/Home/Index/1/Default/3384/60
     date: '2021-05-01'
     awarder: CSIR-HRDG
     icon: 
     summary: |
-      AIR Rank 67, Fellowship to pursue PhD
+      AIR Rank 67
   
   - title: 'International Travel Support (ITS) Grant'
     url: https://anrfonline.in/ANRF/its
-    certificate_url: https://www.datacamp.com
     date: '2024-04-21'
     awarder: ANRF
     icon:
     summary: |
-      Travel Grant to attend the NEUTRINO 2024 International conference to present my research work.
+      Travel Grant to attend the NEUTRINO 2024 International conference.
 
 
 # Skills
