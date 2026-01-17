@@ -25,7 +25,7 @@ role: Physics Researcher
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Indian Association for the Cultivation of Science
-    url: [https://www.tezu.ernet.in/](https://www.iacs.res.in/)
+    url: https://www.iacs.res.in/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
