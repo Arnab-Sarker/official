@@ -11,7 +11,7 @@ last_name: Sarker
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Physics Researcher
+role: Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -33,18 +33,19 @@ profiles:
   - icon: at-symbol
     url: 'mailto:arnabsarker00@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0002-5211-0338
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=3_EzzEoAAAAJ&hl=en
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/sarkerarnab/
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/Arnab-Sarker
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/sarkerarnab/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=3_EzzEoAAAAJ&hl=en
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-5211-0338
+
+
+
 
 research interests:
   - Neutrino Physics
@@ -61,8 +62,6 @@ education:
     button:
       text: 'Inspire-HEP'
       url: 'https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=f%20a%20arnab%20sarker&author=1926086_Arnab%20Sarker&ui-citation-summary=true'
-
- 
 
   - area: M.Sc. Physics
     institution: University of Hyderabad, Telangana, India
@@ -114,13 +113,6 @@ awards:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-languages:
-  - name: English
-    percent: 100
-  - name: Hindi
-    percent: 85
-  - name: Assamese
-    percent: 100
 
 skills:
   - name: Technical Skills
