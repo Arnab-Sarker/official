@@ -113,7 +113,6 @@ awards:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-
 skills:
   - name: Technical Skills
     items:
@@ -129,7 +128,6 @@ skills:
         description: ''
         percent: 75
         icon: circle-stack
-
 ---
 
 ## About Me
