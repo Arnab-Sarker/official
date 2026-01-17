@@ -114,6 +114,14 @@ awards:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
+languages:
+  - name: English
+    percent: 100
+  - name: Hindi
+    percent: 85
+  - name: Assamese
+    percent: 100
+
 skills:
   - name: Technical Skills
     items:
@@ -129,14 +137,6 @@ skills:
         description: ''
         percent: 75
         icon: circle-stack
-
-languages:
-  - name: English
-    percent: 100
-  - name: Hindi
-    percent: 85
-  - name: Assamese
-    percent: 100
 
 ---
 
