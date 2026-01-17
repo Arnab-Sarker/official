@@ -24,8 +24,8 @@ role: Physics Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Tezpur University
-    url: https://www.tezu.ernet.in/
+  - name: Indian Association for the Cultivation of Science
+    url: [https://www.tezu.ernet.in/](https://www.iacs.res.in/)
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -55,7 +55,7 @@ education:
   - area: PhD Neutrino Phenomenology
     institution: Tezpur University, Assam, India
     date_start: 2020-09-01
-    date_end: ''
+    date_end: 2025-12-12
     summary: |
       Study of non-standard effects via neutrino oscillation experiments and application of machine learning for particle reconstruction.
        <a href="https://inspirehep.net/authors/1926086" target="_blank" title="INSPIRE-HEP Profile" style="text-decoration:none;">
