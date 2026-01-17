@@ -71,15 +71,11 @@ education:
     institution: University of Hyderabad, Telangana, India
     date_start: 2018-08-01
     date_end: 2020-07-01
-    summary: |
-      Percentage:
     
   - area: B.Sc. Physics
     institution: B. Borooah College, Assam, India
     date_start: 2014-08-01
     date_end: 2017-07-31
-    summary: |
-      Percentage: 
     
 work:
   - position: Research Associate
@@ -87,7 +83,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2025-11-01
-    date_end: ''
+    date_end: Present
         
   - position: Guest Faculty
     company_name: Cotton University, Assam, India
@@ -95,9 +91,6 @@ work:
     company_logo: ''
     date_start: 2025-09-01
     date_end: 2025-10-31
-    summary: |2-
-      Responsibilities include:
-      - Teaching Undergraduate and Postgraduate Courses.
 
 
 # Awards.
